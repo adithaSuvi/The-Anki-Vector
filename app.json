@@ -1,7 +1,7 @@
 {
-      "name": "The Anki Vector",
+      "name": "The Marvin Bot",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+      "logo": "https://telegra.ph/file/a8a2c5c3f6cd271d1c4af.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Damantha126/The-Anki-Vector",
+   "repository": "https://github.com/adithasuvi/The-Anki-Vector",
    "addons": [
       {
          "options": {
